@@ -7,5 +7,5 @@
 3. 파일을 서버에 업로드합니다. 
 
 ## 정보
-SEONG Park - <a href="mailto:b_ack2@naver.com">이메일</a>
-MIT 라이센스에 따릅니다.
+* SEONG Park - <a href="mailto:b_ack2@naver.com">이메일</a>
+ * MIT 라이센스에 따릅니다.
