@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'Cafe24Ssurround';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24Ssurround.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cafe24SsurroundAir';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24SsurroundAir.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Cafe24SsurroundAir';
+  background-color: #f2f2f2!important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Cafe24Ssurround';
+}
+
+.uk-navbar-container:not(.uk-navbar-transparent) {
+  background-color: #f1f1f1!important;
+}
+
+.nav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 20px 0px;
+    border-top: 1px solid rgba(121, 121, 121, 0.3);
+    background-color: #2E64FE;
+    border-radius: 25px 25px 0px 0px ;
+  }
+  .nav__list {
+    display: flex;
+    justify-content: space-around;
+  }
+  .nav__link {
+    color: #2e363e;
+    position: relative;
+  }
+  .nav__link i {
+    color: white;
+  }
+
+  li {
+    list-style:none;
+  }
+
+  table  {
+    height: 200px;
+  }
+
+  .uk-card.uk-card-default.uk-card-body {
+  border-radius: 10px 10px  10px 10px;
+}
+
+.updown {
+  background-color: gray;
+  line-height: 2px;
+}
+
+.fd {
+  padding-top: 10px;
+}
+
+.navbar2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+  position: fixed;
+}
