@@ -3,8 +3,12 @@
 
 ## 사용방법
 1. PHP, DB가 설치되어있는지 확인합니다.
-2. db.php 파일과 /member/page/main/db.php 파일을 열어 DB 정보를 입력합니다.
-3. 파일을 서버에 업로드합니다. 
+2. DB에 dbsetup.sql 파일을 적용합니다.
+3. db.php 파일과 /member/page/main/db.php 파일을 열어 DB 정보를 입력합니다.
+4. 파일을 서버에 업로드합니다. 
+
+## 예시 보기
+* <a href="https://oneoclock.kr/gj/">에시 보기</a>
 
 ## 정보
 * SEONG Park - <a href="mailto:b_ack2@naver.com">이메일</a>
