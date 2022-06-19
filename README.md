@@ -52,9 +52,6 @@
 * Booked의 날씨 위젯
 * Surfing Waves의 HTML RSS 위젯
 
-# 사용해보기
-* <a href="https://oneoclock.kr/gj/">에시 보기</a>
-
 # 정보
 * SEONG Park - <a href="mailto:b_ack2@naver.com">이메일</a>
  * MIT 라이센스에 따릅니다.
